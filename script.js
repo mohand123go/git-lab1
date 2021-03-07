@@ -4,4 +4,6 @@ big_title.style = 'background-color:red;padding:40px 0;color:white;text-align:ce
 
 
 console.log(`hello ya maaaannn saba7o`);
+
  console.log(`anaa harooo7 lele gemeezaaa `);
+let El_gmaza = 'ana harooo el algmaza'
